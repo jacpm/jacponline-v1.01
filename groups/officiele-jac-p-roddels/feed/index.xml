@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		>
+
+<channel>
+	<title>Jac P Mash | Officiele Jac P Roddels | Activity</title>
+	<link>http://localhost/Jac-P-Mash/groups/officiele-jac-p-roddels/</link>
+	<atom:link href="http://localhost/Jac-P-Mash/groups/officiele-jac-p-roddels/feed/" rel="self" type="application/rss+xml" />
+	<description>Toevoer van activiteiten voor de groep Officiele Jac P Roddels.</description>
+	<lastBuildDate>Tue, 25 Apr 2023 10:44:43 +0200</lastBuildDate>
+	<generator>https://buddypress.org/?v=2.3.2</generator>
+	<language>nl</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+		
+								<item>
+				<guid isPermaLink="false">e283e3ab2810e1c31d5b3ec47297cc0d</guid>
+				<title>FaceMash heeft deze groep aangemaakt  Officiele Jac P Roddels</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/23/</link>
+				<pubDate>Sun, 23 Apr 2023 14:55:40 +0200</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
+		

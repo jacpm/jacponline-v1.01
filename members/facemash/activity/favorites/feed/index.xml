@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		>
+
+<channel>
+	<title>Jac P Mash | FaceMash | Favorites</title>
+	<link>http://localhost/Jac-P-Mash/members/facemash/activity/favorites/</link>
+	<atom:link href="http://localhost/Jac-P-Mash/members/facemash/activity/favorites/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed van FaceMash is opgeslagen berichten.</description>
+	<lastBuildDate>Tue, 25 Apr 2023 10:44:43 +0200</lastBuildDate>
+	<generator>https://buddypress.org/?v=2.3.2</generator>
+	<language>nl</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+		
+								<item>
+				<guid isPermaLink="false">642ad439ce1b5203cdf7ca6f16538bfb</guid>
+				<title>FaceMash geplaatst van een update in de groep Huiswerk en toetsen verkopen/weggeven: Inspiratie voor deze website</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/30/</link>
+				<pubDate>Mon, 24 Apr 2023 08:20:45 +0200</pubDate>
+
+									<content:encoded><![CDATA[<p>Inspiratie voor deze website</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">96cfac9d77cb8f0ab66d09c8d607e712</guid>
+				<title>FaceMash geplaatst van een update: hi</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/14/</link>
+				<pubDate>Sun, 23 Apr 2023 10:04:59 +0200</pubDate>
+
+									<content:encoded><![CDATA[<p>hi</p>
+]]></content:encoded>
+				
+									<slash:comments>1</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
+		

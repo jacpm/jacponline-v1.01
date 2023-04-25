@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		>
+
+<channel>
+	<title>Jac P Mash | james-harbid123 | Group Activity</title>
+	<link>http://localhost/Jac-P-Mash/members/james-harbid123/activity/groups/</link>
+	<atom:link href="http://localhost/Jac-P-Mash/members/james-harbid123/activity/groups/feed/" rel="self" type="application/rss+xml" />
+	<description>Openbare groep feed activiteit van die james-harbid123 is een lid.</description>
+	<lastBuildDate>Tue, 25 Apr 2023 10:44:43 +0200</lastBuildDate>
+	<generator>https://buddypress.org/?v=2.3.2</generator>
+	<language>nl</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+		
+								<item>
+				<guid isPermaLink="false">728c8e3b8ffdae938fb804f292ea22c8</guid>
+				<title>james-harbid123 bij de groep Huiswerk en toetsen verkopen/weggeven</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/29/</link>
+				<pubDate>Mon, 24 Apr 2023 08:16:33 +0200</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
+		

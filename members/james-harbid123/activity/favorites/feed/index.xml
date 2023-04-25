@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		>
+
+<channel>
+	<title>Jac P Mash | james-harbid123 | Favorites</title>
+	<link>http://localhost/Jac-P-Mash/members/james-harbid123/activity/favorites/</link>
+	<atom:link href="http://localhost/Jac-P-Mash/members/james-harbid123/activity/favorites/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed van james-harbid123 is opgeslagen berichten.</description>
+	<lastBuildDate>Tue, 25 Apr 2023 10:44:43 +0200</lastBuildDate>
+	<generator>https://buddypress.org/?v=2.3.2</generator>
+	<language>nl</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+		
+		</channel>
+</rss>
+		

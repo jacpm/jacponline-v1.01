@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		>
+
+<channel>
+	<title>Jac P Mash | Huiswerk en toetsen verkopen/weggeven | Activity</title>
+	<link>http://localhost/Jac-P-Mash/groups/huiswerk-en-toetsen-verkopen/</link>
+	<atom:link href="http://localhost/Jac-P-Mash/groups/huiswerk-en-toetsen-verkopen/feed/" rel="self" type="application/rss+xml" />
+	<description>Toevoer van activiteiten voor de groep Huiswerk en toetsen verkopen/weggeven.</description>
+	<lastBuildDate>Tue, 25 Apr 2023 10:44:43 +0200</lastBuildDate>
+	<generator>https://buddypress.org/?v=2.3.2</generator>
+	<language>nl</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+		
+								<item>
+				<guid isPermaLink="false">0e083302bd16a7c016435995e24e8311</guid>
+				<title>FaceMash heeft de naam en beschrijving van de groep Huiswerk en toetsen verkopen/weggeven veranderd</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/31/</link>
+				<pubDate>Mon, 24 Apr 2023 08:57:21 +0200</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">642ad439ce1b5203cdf7ca6f16538bfb</guid>
+				<title>FaceMash geplaatst van een update in de groep Huiswerk en toetsen verkopen/weggeven: Inspiratie voor deze website</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/30/</link>
+				<pubDate>Mon, 24 Apr 2023 08:20:45 +0200</pubDate>
+
+									<content:encoded><![CDATA[<p>Inspiratie voor deze website</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">728c8e3b8ffdae938fb804f292ea22c8</guid>
+				<title>james-harbid123 bij de groep Huiswerk en toetsen verkopen/weggeven</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/29/</link>
+				<pubDate>Mon, 24 Apr 2023 08:16:33 +0200</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">daa54973866ca2b96995d5b27bce9706</guid>
+				<title>FaceMash geplaatst van een update in de groep Huiswerk en toetsen verkopen/weggeven: test</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/28/</link>
+				<pubDate>Mon, 24 Apr 2023 08:16:21 +0200</pubDate>
+
+									<content:encoded><![CDATA[<p>test</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">bde65a305c307e0ce0dfcaf9c1964a21</guid>
+				<title>FaceMash heeft deze groep aangemaakt  Huiswerk en toetsen verkopen/weggeven</title>
+				<link>http://localhost/Jac-P-Mash/news-feed/p/27/</link>
+				<pubDate>Mon, 24 Apr 2023 07:58:59 +0200</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
+		
